@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/profile-card/static/css/main.63b73042.css",
-    "main.js": "/profile-card/static/js/main.bf81e2a6.js",
-    "static/js/453.f2002b5c.chunk.js": "/profile-card/static/js/453.f2002b5c.chunk.js",
-    "static/media/logo.svg": "/profile-card/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/profile-card/index.html",
-    "main.63b73042.css.map": "/profile-card/static/css/main.63b73042.css.map",
-    "main.bf81e2a6.js.map": "/profile-card/static/js/main.bf81e2a6.js.map",
-    "453.f2002b5c.chunk.js.map": "/profile-card/static/js/453.f2002b5c.chunk.js.map"
+    "main.css": "/react-course/static/css/main.63b73042.css",
+    "main.js": "/react-course/static/js/main.bd1fa7ae.js",
+    "static/js/453.f2002b5c.chunk.js": "/react-course/static/js/453.f2002b5c.chunk.js",
+    "static/media/logo.svg": "/react-course/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-course/index.html",
+    "main.63b73042.css.map": "/react-course/static/css/main.63b73042.css.map",
+    "main.bd1fa7ae.js.map": "/react-course/static/js/main.bd1fa7ae.js.map",
+    "453.f2002b5c.chunk.js.map": "/react-course/static/js/453.f2002b5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63b73042.css",
-    "static/js/main.bf81e2a6.js"
+    "static/js/main.bd1fa7ae.js"
   ]
 }
