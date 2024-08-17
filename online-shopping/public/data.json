@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Product 1",
+      "rating": 4.5,
+      "image": "/images/product1.jpg",
+      "description": "This is a great product.",
+      "price": "32"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "rating": 4.0,
+      "image": "/images/product2.jpg",
+      "description": "This product is amazing.",
+      "price": "25"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "rating": 4.7,
+      "image": "/images/product3.jpg",
+      "description": "You will love this product.",
+       "price": "45"
+    }
+  ]
+  
