@@ -23,7 +23,7 @@ function UserDetail() {
         })
         .catch((error) => {
           setUser(null);
-          setUser(error.message);
+          setError(error.message);
         });
     }
     return () => {
