@@ -50,7 +50,7 @@ function LaunchTracker() {
                 {currentLaunches.map((launch) => (
                     <li key={launch.id} className="launch-item">
                         <h2>{launch.name}</h2>
-                        <p>Data: {new Date(launch.data_utc).toLocaleDateString()}</p>
+                        <p>Date: {new Date(launch.date_utc).toLocaleDateString()}</p>
                         <p>Rocket: {launch.rocket}</p>
                         <p>
                             Launch Site: {launch.launchpad}
